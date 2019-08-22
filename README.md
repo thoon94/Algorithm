@@ -6,6 +6,6 @@
 동적 알고리즘
 
 
-*Greedy Programming
+* Greedy Programming
 
 탐욕 알고리즘
