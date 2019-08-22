@@ -1,4 +1,4 @@
-## 문제
+## 문제 (정수 삼각형)
 
 ![image](https://user-images.githubusercontent.com/48084887/63499227-68c72980-c502-11e9-8a9f-ef28511ef958.png)
 
